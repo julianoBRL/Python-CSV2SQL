@@ -1,0 +1,5 @@
+12345|https://example.com|abcd1234-5678-90ab-cdef-1234567890ab
+|https://anotherexample.com||98765
+67890||123e4567-e89b-12d3-a456-426614174000
+abc|http://example.org|99999|
+https://somesite.com|test_string|

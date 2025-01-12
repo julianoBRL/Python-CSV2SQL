@@ -1,0 +1,10 @@
+LSL|602.00|Fish
+||Shirt
+RWF||Fish
+IDR|312.00|
+|3.00|Hat
+ZAR|230.00|Keyboard
+GHS||Pizza
+ANG|651.00|
+|605.00|Soap
+MGA||Fish
